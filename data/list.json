@@ -41,7 +41,8 @@
             "description": "Impostos, documentos fiscais e obrigações.",
             "items": [
                 { "name": "MCP Fiscal Brasil", "url": "https://github.com/DeHor-Labs/mcp-fiscal-brasil", "description": "Servidor MCP fiscal: CNPJ, NF-e, NFS-e, CT-e, SPED, eSocial, Simples Nacional e a reforma tributária.", "tags": ["codigo-aberto", "gratis"], "added": "2026-11-10" },
-                { "name": "MCP Server ACBrNFe", "url": "https://github.com/Code4Delphi/MCP-Server-ACBrNFe", "description": "Geração e envio de NF-e com o componente ACBrNFe, em Delphi.", "tags": ["codigo-aberto", "gratis"], "added": "2026-11-10" }
+                { "name": "MCP Server ACBrNFe", "url": "https://github.com/Code4Delphi/MCP-Server-ACBrNFe", "description": "Geração e envio de NF-e com o componente ACBrNFe, em Delphi.", "tags": ["codigo-aberto", "gratis"], "added": "2026-11-10" },
+                { "name": "SendNF MCP", "url": "https://sendnf.com/mcp/", "description": "Servidor MCP remoto para emitir e consultar NFS-e e NFC-e conversando com o agente, com pré-emissão e confirmação antes de emitir ou cancelar.", "tags": ["api", "pago"], "added": "2026-11-14" }
             ]
         },
         {
