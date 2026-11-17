@@ -41,7 +41,8 @@
             "description": "Impostos, documentos fiscais e obrigações.",
             "items": [
                 { "name": "MCP Fiscal Brasil", "url": "https://github.com/DeHor-Labs/mcp-fiscal-brasil", "description": "Servidor MCP fiscal: CNPJ, NF-e, NFS-e, CT-e, SPED, eSocial, Simples Nacional e a reforma tributária.", "tags": ["codigo-aberto", "gratis"], "added": "2026-11-10" },
-                { "name": "MCP Server ACBrNFe", "url": "https://github.com/Code4Delphi/MCP-Server-ACBrNFe", "description": "Geração e envio de NF-e com o componente ACBrNFe, em Delphi.", "tags": ["codigo-aberto", "gratis"], "added": "2026-11-10" }
+                { "name": "MCP Server ACBrNFe", "url": "https://github.com/Code4Delphi/MCP-Server-ACBrNFe", "description": "Geração e envio de NF-e com o componente ACBrNFe, em Delphi.", "tags": ["codigo-aberto", "gratis"], "added": "2026-11-10" },
+                { "name": "Suíte Brasil IA x402", "url": "https://github.com/brunopompeo1/brazil-ai-fiscal-apis-x402", "description": "Sete APIs para agentes: auditoria de XML NF-e, boletos, cálculos tributários, CNPJ/PIX e índices do Banco Central, com pagamento por chamada em USDC na Base.", "tags": ["codigo-aberto", "pago", "api"], "added": "2026-11-17" }
             ]
         },
         {
