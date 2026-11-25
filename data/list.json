@@ -64,7 +64,8 @@
                 { "name": "bolsai-mcp", "url": "https://github.com/viniciuslazzari/bolsai-mcp", "description": "Dados do mercado de ações brasileiro (B3, CVM e Banco Central) para agentes.", "tags": ["codigo-aberto"], "added": "2026-11-10" },
                 { "name": "DataBolsa", "url": "https://github.com/databolsahq/databolsa", "description": "SDK em TypeScript, CLI e servidor MCP para a API de dados da bolsa brasileira do DataBolsa.", "tags": ["codigo-aberto", "sdk"], "added": "2026-11-10" },
                 { "name": "local-openfinance", "url": "https://github.com/barbieri/local-openfinance", "description": "Sincroniza dados do Open Finance brasileiro num SQLite local para anotar gastos e gerar relatórios.", "tags": ["codigo-aberto", "gratis"], "added": "2026-11-10" },
-                { "name": "OpenFinData", "url": "https://github.com/robertoecf/OpenFinData", "description": "Infraestrutura aberta para dados financeiros públicos do Brasil.", "tags": ["codigo-aberto", "gratis"], "added": "2026-11-10" }
+                { "name": "OpenFinData", "url": "https://github.com/robertoecf/OpenFinData", "description": "Infraestrutura aberta para dados financeiros públicos do Brasil.", "tags": ["codigo-aberto", "gratis"], "added": "2026-11-10" },
+                { "name": "SLDX", "url": "https://api.sldx.com.br/homepage/mcp", "description": "Servidor MCP remoto com cotações da B3, dividendos, fundamentos e fundos de investimento; exige chave da SLDX API.", "tags": [], "added": "2026-11-25" }
             ]
         },
         {
